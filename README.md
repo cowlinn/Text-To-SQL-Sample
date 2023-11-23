@@ -1,7 +1,7 @@
 # Text-To-SQL-Sample
 
 <!-- Sample Query to SQL project via NLP and GPT's API -->
-Insert your key inside inside `app/openAIutils`
+Insert your key inside inside `app/utils/openAIutils`
 
 To run the app, run `app/newChatBot.py`
 
